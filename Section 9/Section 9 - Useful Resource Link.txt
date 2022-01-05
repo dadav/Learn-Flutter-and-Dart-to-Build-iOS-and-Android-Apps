@@ -1,3 +1,0 @@
-The following resources might be helpful:
-
-Official Input & Forms Docs: https://flutter.dev/docs/cookbook#forms

@@ -1,3 +1,0 @@
-The following resources might be helpful:
-
-Writing Custom Native Code (Official Docs): https://flutter.dev/docs/development/platform-integration/platform-channels

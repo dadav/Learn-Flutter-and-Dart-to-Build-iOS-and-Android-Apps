@@ -1,3 +1,0 @@
-Useful Resources & Links
-Official Docs for Android Publishing: https://flutter.dev/docs/deployment/android
-Official Docs for iOS Publishing: https://flutter.dev/docs/deployment/ios

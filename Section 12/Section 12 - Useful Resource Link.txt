@@ -1,3 +1,0 @@
-The following resources might be helpful:
-
-Official Animation Docs: https://flutter.dev/docs/development/ui/animations
